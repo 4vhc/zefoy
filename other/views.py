@@ -105,7 +105,7 @@ if __name__ == "__main__":
 '''))
 
     #start = input('[*] Type any key to start: ')
-    url = input('[*] Url: ')
+    url = input('[https://vt.tiktok.com/ZSRV4awFF/] Url: ')
 
     opts = webdriver.ChromeOptions()
     driver = uc.Chrome(options=opts)
